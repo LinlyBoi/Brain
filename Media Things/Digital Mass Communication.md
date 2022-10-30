@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Digital Mass communication
 - Textbook (Media and Culture by Richard Campbell)
 - 16/11 Deadline for soft copy of researches
@@ -80,7 +78,6 @@
 ### Corporate Convergence
 ### Economy Convergence
 
-*sweats nervously*
 
 ## Audience Fragmentation
 
