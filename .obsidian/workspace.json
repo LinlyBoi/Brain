@@ -6,7 +6,7 @@
       {
         "id": "5d902b1d76481869",
         "type": "tabs",
-        "dimension": 55.30303030303032,
+        "dimension": 58.227079538554946,
         "children": [
           {
             "id": "509bf0d650486b3b",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability and Statistics/Sampling Distribution.md",
+                "file": "Past lens Mystery.md",
                 "mode": "source",
                 "source": false
               }
@@ -28,13 +28,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "75db5d369faa7d1d",
         "type": "tabs",
-        "dimension": 44.696969696969695,
+        "dimension": 41.772920461445054,
         "children": [
           {
             "id": "33f7fce4e0e0b90e",
@@ -90,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "c459506be14fdfac",
@@ -114,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Past lens Mystery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,8 +132,10 @@
     "width": 236.5,
     "collapsed": true
   },
-  "active": "a48889e0b38c3c8f",
+  "active": "509bf0d650486b3b",
   "lastOpenFiles": [
+    "Media Things/Analogue Horror Story.md",
+    "Daily Notes/2022-10-31.md",
     "Probability and Statistics/Sampling Distribution.md",
     "Sampling Distribution.md",
     "Homie Trivia.md",
@@ -140,8 +143,6 @@
     "Computer Science/Linked List.md",
     "Media Things/Digital Mass Communication.md",
     "Media Things/Audience Research and Analysis.md",
-    "Database/ER&DataModels.md",
-    "Entity-Relationship Model.md",
-    "Database/Databases.md"
+    "Database/ER&DataModels.md"
   ]
 }
