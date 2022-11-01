@@ -20,7 +20,7 @@ Function of random sample that doesn't depend on unknown points --> Statistics
   - E(X) = $\sum_{i=1}^{n}{f(x) * x}$
 ## Maximum likelihood estimation
 1. L(θ) = $\prod_{i = 1}^{n}{f(X_i,θ)}$
-2. *Take ln* --> $\ln{L(θ)}$ = $\sum_{i = 1}^{n}{\ln{f(X_i,θ)}}$
+2. *Take $\ln$* --> $\ln{L(θ)}$ = $\sum_{i = 1}^{n}{\ln{f(X_i,θ)}}$
 3. *Derive* --> $\frac{d\ln{L(θ)}}{dθ}$
 
 #### Properties of Estimates
