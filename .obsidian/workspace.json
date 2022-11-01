@@ -26,7 +26,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability and Statistics/Sampling Distribution.md",
+                "file": "Probability and Statistics/Point estimation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8a18222351b00c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Latex things.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability and Statistics/Sampling Distribution.md",
+                "file": "Probability and Statistics/Point estimation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability and Statistics/Sampling Distribution.md",
+                "file": "Probability and Statistics/Point estimation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability and Statistics/Sampling Distribution.md"
+                "file": "Probability and Statistics/Point estimation.md"
               }
             }
           }
@@ -179,15 +191,15 @@
   },
   "active": "91dddfcd60422b92",
   "lastOpenFiles": [
-    "Probability and Statistics/Sampling in R.md",
-    "Assignments/Prob II R Assignment (AMES means).md",
+    "Daily Notes/2022-11-01.md",
+    "Probability and Statistics/Point estimation.md",
+    "Latex things.md",
+    "Probability and Statistics/F distribution.md",
     "Probability and Statistics/Sampling Distribution.md",
-    "Computer Science/R.md",
-    "Computer Science/Programming.md",
     "Templates/Tasks.md",
-    "Probability and Statistics/Random variables.md",
-    "Probability and Statistics/Probability.md",
-    "Media Things/Photography.md",
-    "Computer Science/Intro to Database/SQL Codes.md"
+    "Sysadmin things/SubDomain DNS.md",
+    "Daily Notes/2022-10-05.md",
+    "Media Things/News Editing and Blogging.md",
+    "Probability and Statistics/Sampling in R.md"
   ]
 }
