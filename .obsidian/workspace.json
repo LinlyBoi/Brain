@@ -14,38 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media Things/Photography.md",
+                "file": "Probability and Statistics/Sampling Distribution.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6da0802cb316fd6d",
+            "id": "91dddfcd60422b92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Intro to Database/SQL Codes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7fb4584d575e11e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Probability and Statistics/Sampling Distribution.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "4ce39d36f4ffd12e",
@@ -139,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Probability and Statistics/Sampling Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Probability and Statistics/Sampling Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Probability and Statistics/Sampling Distribution.md"
               }
             }
           }
@@ -189,17 +177,17 @@
     "direction": "horizontal",
     "width": 236.5
   },
-  "active": "c7fb4584d575e11e",
+  "active": "91dddfcd60422b92",
   "lastOpenFiles": [
-    "Computer Science/Intro to Database/SQL Codes.md",
-    "Daily Notes/2022-10-29.md",
+    "Probability and Statistics/Sampling in R.md",
+    "Assignments/Prob II R Assignment (AMES means).md",
+    "Probability and Statistics/Sampling Distribution.md",
+    "Computer Science/R.md",
+    "Computer Science/Programming.md",
+    "Templates/Tasks.md",
+    "Probability and Statistics/Random variables.md",
+    "Probability and Statistics/Probability.md",
     "Media Things/Photography.md",
-    "Media Things/Analogue Horror Story.md",
-    "Media Things/Digital Video Production.md",
-    "Media Things/Video production process.md",
-    "Daily Notes/2022-10-15.md",
-    "Daily Notes/2022-10-08.md",
-    "Daily Notes/2022-10-22.md",
-    "phot.md"
+    "Computer Science/Intro to Database/SQL Codes.md"
   ]
 }
