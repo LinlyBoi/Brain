@@ -21,6 +21,18 @@
             }
           },
           {
+            "id": "282175549e4f1aea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "579650b22f3040c3",
             "type": "leaf",
             "state": {
@@ -32,7 +44,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "75db5d369faa7d1d",
@@ -137,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability and Statistics/Point estimation.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,17 +168,17 @@
     "width": 236.5,
     "collapsed": true
   },
-  "active": "509bf0d650486b3b",
+  "active": "282175549e4f1aea",
   "lastOpenFiles": [
-    "Daily Notes/2022-11-01.md",
+    "Daily Notes/2022-10-13.md",
+    "conflict-files-obsidian-git.md",
     "Probability and Statistics/Point estimation.md",
+    "Daily Notes/2022-11-01.md",
     "Templates/Tasks.md",
     "Server Requirements.md",
-    "Daily Notes/2022-10-13.md",
     "Media Things/Digital Mass Communication.md",
     "Daily Notes/2022-09-20.md",
     "Past lens Mystery.md",
-    "Media Things/Analogue Horror Story.md",
-    "Daily Notes/2022-10-31.md"
+    "Media Things/Analogue Horror Story.md"
   ]
 }
