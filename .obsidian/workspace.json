@@ -31,9 +31,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c7fb4584d575e11e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "4ce39d36f4ffd12e",
@@ -127,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Intro to Database/SQL Codes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Intro to Database/SQL Codes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Intro to Database/SQL Codes.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -177,8 +189,9 @@
     "direction": "horizontal",
     "width": 236.5
   },
-  "active": "6da0802cb316fd6d",
+  "active": "c7fb4584d575e11e",
   "lastOpenFiles": [
+    "Computer Science/Intro to Database/SQL Codes.md",
     "Daily Notes/2022-10-29.md",
     "Media Things/Photography.md",
     "Media Things/Analogue Horror Story.md",
@@ -187,7 +200,6 @@
     "Daily Notes/2022-10-15.md",
     "Daily Notes/2022-10-08.md",
     "Daily Notes/2022-10-22.md",
-    "phot.md",
-    "Templates/Tasks.md"
+    "phot.md"
   ]
 }
