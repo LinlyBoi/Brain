@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Past lens Mystery.md",
+                "file": "Probability and Statistics/Point estimation.md",
                 "mode": "source",
                 "source": false
               }
@@ -24,8 +24,12 @@
             "id": "579650b22f3040c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2022-11-01.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -42,9 +46,29 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/Tasks.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69d4381b5157f683",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2022-10-13.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "cffd47a066e1d4f3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -89,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "c459506be14fdfac",
@@ -114,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Past lens Mystery.md",
+                "file": "Probability and Statistics/Point estimation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,15 +157,15 @@
   },
   "active": "509bf0d650486b3b",
   "lastOpenFiles": [
-    "Media Things/Analogue Horror Story.md",
-    "Daily Notes/2022-10-31.md",
-    "Probability and Statistics/Sampling Distribution.md",
-    "Sampling Distribution.md",
-    "Homie Trivia.md",
-    "Database/Entity-Relationship Model.md",
-    "Computer Science/Linked List.md",
+    "Daily Notes/2022-11-01.md",
+    "Probability and Statistics/Point estimation.md",
+    "Templates/Tasks.md",
+    "Server Requirements.md",
+    "Daily Notes/2022-10-13.md",
     "Media Things/Digital Mass Communication.md",
-    "Media Things/Audience Research and Analysis.md",
-    "Database/ER&DataModels.md"
+    "Daily Notes/2022-09-20.md",
+    "Past lens Mystery.md",
+    "Media Things/Analogue Horror Story.md",
+    "Daily Notes/2022-10-31.md"
   ]
 }
