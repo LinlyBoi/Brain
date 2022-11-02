@@ -33,6 +33,18 @@
             }
           },
           {
+            "id": "0547450500f31295",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b8a18222351b00c3",
             "type": "leaf",
             "state": {
@@ -45,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "4ce39d36f4ffd12e",
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-11-02.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022-11-02.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022-11-02.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -188,10 +200,10 @@
     "direction": "horizontal",
     "width": 236.5
   },
-  "active": "91dddfcd60422b92",
+  "active": "0547450500f31295",
   "lastOpenFiles": [
-    "Database/Relational Model.md",
     "Daily Notes/2022-11-02.md",
+    "Database/Relational Model.md",
     "Database/Entity-Relationship Model.md",
     "Database/Data Modelling.md",
     "Database/ER&DataModels.md",
