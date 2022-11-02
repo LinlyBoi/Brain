@@ -14,12 +14,6 @@
 - Media law and ethics in cyber space
 ## Communication Models
 [[Mass Communication Models]]
-4. Barnlund
-   - Focuses on noise
-   - Credibility 
-   - Encode/Decode
-   - Sending/Feedback
-5. Schramm 
 ## Communication Theories
 - Simply the transmission of information from 1st party to 2nd party
 ## Noise in communication

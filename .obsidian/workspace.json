@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media Things/Digital Mass Communication.md",
+                "file": "Daily Notes/2022-11-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media Things/Digital Mass Communication.md",
+                "file": "Daily Notes/2022-11-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media Things/Digital Mass Communication.md"
+                "file": "Daily Notes/2022-11-02.md"
               }
             }
           }
@@ -202,10 +202,10 @@
     "direction": "horizontal",
     "width": 236.5
   },
-  "active": "4c0c0c2657e13739",
+  "active": "f872a1d2af06471b",
   "lastOpenFiles": [
-    "Daily Notes/2022-11-02.md",
     "Media Things/Digital Mass Communication.md",
+    "Daily Notes/2022-11-02.md",
     "Media Things/Mass Communication Models.md",
     "Database/Data Modelling.md",
     "Relationships.md",
