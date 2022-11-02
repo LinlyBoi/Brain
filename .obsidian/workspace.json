@@ -6,7 +6,7 @@
       {
         "id": "e65905b0b0a77c78",
         "type": "tabs",
-        "dimension": 68.97654584221749,
+        "dimension": 69.7872340425532,
         "children": [
           {
             "id": "707a6f603fe90641",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability and Statistics/Sampling Distribution.md",
+                "file": "Database/Relational Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,43 +26,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2022-11-02.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0547450500f31295",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Relationships.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b8a18222351b00c3",
+            "id": "23cdf29d57c0d3d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latex things.md",
+                "file": "Computer Science/Relations.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "4ce39d36f4ffd12e",
         "type": "tabs",
-        "dimension": 31.023454157782517,
+        "dimension": 30.21276595744681,
         "children": [
           {
             "id": "2d4a28d65a6ef5a1",
@@ -150,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Database/Relational Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Database/Relational Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Database/Relational Model.md"
               }
             }
           }
@@ -200,17 +187,17 @@
     "direction": "horizontal",
     "width": 236.5
   },
-  "active": "0547450500f31295",
+  "active": "707a6f603fe90641",
   "lastOpenFiles": [
-    "Daily Notes/2022-11-02.md",
+    "Computer Science/Relations.md",
     "Database/Relational Model.md",
     "Database/Entity-Relationship Model.md",
-    "Database/Data Modelling.md",
-    "Database/ER&DataModels.md",
-    "Daily Notes/2022-10-26.md",
-    "Probability and Statistics/Point estimation.md",
-    "Daily Notes/2022-11-01.md",
-    "Latex things.md",
-    "Probability and Statistics/F distribution.md"
+    "Relationships.md",
+    "Daily Notes/2022-11-02.md",
+    "Computer Science/Sets.md",
+    "Database/Databases.md",
+    "Computer Science/Databases.md",
+    "Probability and Statistics/Sampling Distribution.md",
+    "Database/Database Life Cycle.md"
   ]
 }
