@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability and Statistics/Point estimation.md",
-                "mode": "source",
+                "file": "Daily Notes/2022-11-02.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "c459506be14fdfac",
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability and Statistics/Point estimation.md",
+                "file": "Daily Notes/2022-11-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability and Statistics/Point estimation.md",
+                "file": "Daily Notes/2022-11-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability and Statistics/Point estimation.md"
+                "file": "Daily Notes/2022-11-02.md"
               }
             }
           }
@@ -191,15 +190,15 @@
   },
   "active": "91dddfcd60422b92",
   "lastOpenFiles": [
-    "Daily Notes/2022-11-01.md",
+    "Database/Relational Model.md",
+    "Daily Notes/2022-11-02.md",
+    "Database/Entity-Relationship Model.md",
+    "Database/Data Modelling.md",
+    "Database/ER&DataModels.md",
+    "Daily Notes/2022-10-26.md",
     "Probability and Statistics/Point estimation.md",
+    "Daily Notes/2022-11-01.md",
     "Latex things.md",
-    "Probability and Statistics/F distribution.md",
-    "Probability and Statistics/Sampling Distribution.md",
-    "Templates/Tasks.md",
-    "Sysadmin things/SubDomain DNS.md",
-    "Daily Notes/2022-10-05.md",
-    "Media Things/News Editing and Blogging.md",
-    "Probability and Statistics/Sampling in R.md"
+    "Probability and Statistics/F distribution.md"
   ]
 }
