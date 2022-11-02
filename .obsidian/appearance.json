@@ -1,5 +1,6 @@
 {
   "accentColor": "#1c71d8",
   "interfaceFontFamily": "Inter",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSize": 17
 }

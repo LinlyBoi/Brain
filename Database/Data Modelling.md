@@ -25,7 +25,7 @@ Organization of Data/Concepts to describe data Structures/relationships.
 
 ### Types of Relations
 1. **One-to-One**: One item from a set (Table) relates with one and only one from another set.
-2. **One-to-Many**: One item from a set (Table) relates with >1 items from another set.
+2. **One-to-Many**: One item from a set (Table) relates with >1 items from another set. ^d2f293
 3. **Many-to-Many**: Multiple items from a set (Table) relate with multiple items from another set.
 
 #### Identifying Relationship

@@ -31,9 +31,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7d15521ef2df64ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "75db5d369faa7d1d",
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-11-02.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,8 +149,9 @@
     "width": 236.5,
     "collapsed": true
   },
-  "active": "579650b22f3040c3",
+  "active": "7d15521ef2df64ae",
   "lastOpenFiles": [
+    "Daily Notes/2022-11-02.md",
     "Daily Notes/2022-11-01.md",
     "Probability and Statistics/Point estimation.md",
     "conflict-files-obsidian-git.md",
@@ -147,7 +160,6 @@
     "Server Requirements.md",
     "Media Things/Digital Mass Communication.md",
     "Daily Notes/2022-09-20.md",
-    "Past lens Mystery.md",
-    "Media Things/Analogue Horror Story.md"
+    "Past lens Mystery.md"
   ]
 }
