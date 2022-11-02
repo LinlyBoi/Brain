@@ -4,52 +4,66 @@
     "type": "split",
     "children": [
       {
-        "id": "e65905b0b0a77c78",
-        "type": "tabs",
-        "dimension": 69.7872340425532,
+        "id": "31754650dd741ed5",
+        "type": "split",
+        "dimension": 70.85365853658536,
         "children": [
           {
-            "id": "707a6f603fe90641",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/Relational Model.md",
-                "mode": "source",
-                "source": false
+            "id": "4ce39d36f4ffd12e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "83ac1603d901f90a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Media Things/Digital Mass Communication.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "f872a1d2af06471b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daily Notes/2022-11-02.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "91dddfcd60422b92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relationships.md",
-                "mode": "source",
-                "source": false
+            "id": "d7bb292da1b9efc5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4c0c0c2657e13739",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Media Things/Digital Mass Communication.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "23cdf29d57c0d3d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Relations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       },
       {
-        "id": "4ce39d36f4ffd12e",
+        "id": "47b517e786ff8079",
         "type": "tabs",
-        "dimension": 30.21276595744681,
+        "dimension": 29.146341463414636,
         "children": [
           {
             "id": "2d4a28d65a6ef5a1",
@@ -113,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "c459506be14fdfac",
@@ -137,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Relational Model.md",
+                "file": "Media Things/Digital Mass Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Relational Model.md",
+                "file": "Media Things/Digital Mass Communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Relational Model.md"
+                "file": "Media Things/Digital Mass Communication.md"
               }
             }
           }
@@ -187,17 +202,17 @@
     "direction": "horizontal",
     "width": 236.5
   },
-  "active": "707a6f603fe90641",
+  "active": "4c0c0c2657e13739",
   "lastOpenFiles": [
-    "Computer Science/Relations.md",
-    "Database/Relational Model.md",
-    "Database/Entity-Relationship Model.md",
-    "Relationships.md",
     "Daily Notes/2022-11-02.md",
-    "Computer Science/Sets.md",
-    "Database/Databases.md",
-    "Computer Science/Databases.md",
-    "Probability and Statistics/Sampling Distribution.md",
-    "Database/Database Life Cycle.md"
+    "Media Things/Digital Mass Communication.md",
+    "Media Things/Mass Communication Models.md",
+    "Database/Data Modelling.md",
+    "Relationships.md",
+    "Templates/Tasks.md",
+    "Computer Science/Relations.md",
+    "Past lens Mystery.md",
+    "Computer Science/Covariance and Correlation Coefficient.md",
+    "Database/Relational Model.md"
   ]
 }

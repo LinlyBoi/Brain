@@ -8,6 +8,26 @@
   4. Talk shows
 - Problem: The message does not reach the audience smoothly -> [[Digital Mass Communication#Noise in communication"|Noise]]
 - No control over how the message is decoded or understood
+- Feedback in the end
+## Shannon & Weaver 
+   - Old school telephones (not analogue)
+   - Noise in communication
+## Laswell communication model
+- 5 Components
+   1. Who 
+   2. says what?
+   3. To whom?
+   4. Which channel?
+   5. With what effect?
+- Can have delayed feedback
+*insert table for pros/cons*
+## Berlo 
+   - Message -> most important part of communication process
+   - Teacher and Students
+   - SMCR
+	 - Source --> Encodes Message --> Through Channel --> To Receiver
+	 - *insert table here*
+	 - *pros/cons table*
 # Cultural Model
 - Individuals bring meanings to message
 - Different people decode messages differently based on
@@ -18,3 +38,4 @@
 - Showcases complexity of how Senders lack control over how people react 
 - Consumers shape media to fit or support their views –> **Selective Exposure**
 - People with specific political opinions tend to seek posts that further support their preexisting views –> Confirmation bias
+

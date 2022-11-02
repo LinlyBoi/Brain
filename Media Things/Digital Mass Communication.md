@@ -1,4 +1,3 @@
-# Digital Mass communication
 - Textbook (Media and Culture by Richard Campbell)
 - 16/11 Deadline for soft copy of researches
 - 23/11 Midterm
@@ -15,16 +14,6 @@
 - Media law and ethics in cyber space
 ## Communication Models
 [[Mass Communication Models]]
-1. Shannon & Weaver 
-2. Laswell communication model
-   - What?
-   - Who?
-   - Says what?
-   - How?
-   - To who?
-   - With what effect?
-3. Berlo 
-   - Message -> most important part of communication process
 4. Barnlund
    - Focuses on noise
    - Credibility 
