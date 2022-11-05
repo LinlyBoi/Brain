@@ -14,7 +14,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2022-11-05.md",
+                "file": "Relational Algebra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f05b79f1c2597d81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-11-05.md",
+                "file": "Relational Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,15 +138,15 @@
   },
   "active": "579650b22f3040c3",
   "lastOpenFiles": [
+    "Computer Science/Functions.md",
+    "Computer Science/Relations.md",
+    "Relational Algebra.md",
+    "Daily Notes/2022-11-05.md",
     "Media Things/Audience Analysis Factors.md",
     "Media Things/Mass Communication Models.md",
-    "Daily Notes/2022-11-05.md",
     "conflict-files-obsidian-git.md",
     "Daily Notes/2022-11-04.md",
     "Media Things/Types of Audience Communication.md",
-    "Media Things/Audience Research and Analysis.md",
-    "Daily Notes/2022-11-03.md",
-    "Templates/Tasks.md",
-    "Computer Science/Discrete Structures.md"
+    "Media Things/Audience Research and Analysis.md"
   ]
 }
