@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Daily Notes/2022-11-02.md",
+                    "file": "Daily Notes/2022-11-05.md",
                     "mode": "source",
                     "source": false
                   }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-11-02.md",
+                "file": "Daily Notes/2022-11-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022-11-02.md",
+                "file": "Daily Notes/2022-11-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022-11-02.md"
+                "file": "Daily Notes/2022-11-05.md"
               }
             }
           }
@@ -204,8 +204,8 @@
   },
   "active": "f872a1d2af06471b",
   "lastOpenFiles": [
-    "Media Things/Digital Mass Communication.md",
     "Daily Notes/2022-11-02.md",
+    "Media Things/Digital Mass Communication.md",
     "Media Things/Mass Communication Models.md",
     "Database/Data Modelling.md",
     "Relationships.md",
