@@ -1,6 +1,10 @@
 {
   "accentColor": "#1c71d8",
   "interfaceFontFamily": "Inter",
+<<<<<<< HEAD
   "theme": "obsidian",
+=======
+  "theme": "system",
+>>>>>>> origin/main
   "baseFontSize": 17
 }

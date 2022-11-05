@@ -21,6 +21,18 @@
             }
           },
           {
+            "id": "db129edef91f7196",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f05b79f1c2597d81",
             "type": "leaf",
             "state": {
@@ -32,7 +44,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "75db5d369faa7d1d",
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relational Algebra.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,11 +149,11 @@
     "width": 236.5,
     "collapsed": true
   },
-  "active": "579650b22f3040c3",
+  "active": "db129edef91f7196",
   "lastOpenFiles": [
+    "Relational Algebra.md",
     "Computer Science/Functions.md",
     "Computer Science/Relations.md",
-    "Relational Algebra.md",
     "Daily Notes/2022-11-05.md",
     "Media Things/Audience Analysis Factors.md",
     "Media Things/Mass Communication Models.md",
