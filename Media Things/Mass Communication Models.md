@@ -35,6 +35,7 @@
    - SMCR
 	 - Source --> Encodes Message --> Through Channel --> To Receiver
 	 ![[Pasted image 20221105125919.png]]
+	 
 |Pros                                      |Cons                                |
 |:-----------------------------------------|:-----------------------------------|
 |Message and medium aligned with recipient | Lack of feedback                   |
@@ -72,6 +73,7 @@
    - Encode/Decode
    - Sending/Feedback
    ![[Pasted image 20221105130747.png]]
+   
 |Pros      | Cons     |
 |:-----|:-----|
 | Shows shared field experience between sender and receiver | VERY complex     |
