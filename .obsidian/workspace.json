@@ -6,51 +6,39 @@
       {
         "id": "5d902b1d76481869",
         "type": "tabs",
-        "dimension": 58.227079538554946,
+        "dimension": 64.6588486140725,
         "children": [
-          {
-            "id": "509bf0d650486b3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probability and Statistics/Point estimation.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
           {
             "id": "579650b22f3040c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2022-11-02.md",
+                "file": "Media Things/Audience Analysis Factors.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7d15521ef2df64ae",
+            "id": "08ad2695b6fd457b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
+                "file": "Daily Notes/2022-11-05.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "75db5d369faa7d1d",
         "type": "tabs",
-        "dimension": 41.772920461445054,
+        "dimension": 35.3411513859275,
         "children": [
           {
             "id": "33f7fce4e0e0b90e",
@@ -59,7 +47,7 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/Tasks.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -131,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Daily Notes/2022-11-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,17 +137,17 @@
     "width": 236.5,
     "collapsed": true
   },
-  "active": "7d15521ef2df64ae",
+  "active": "08ad2695b6fd457b",
   "lastOpenFiles": [
-    "Daily Notes/2022-11-02.md",
-    "Daily Notes/2022-11-01.md",
-    "Probability and Statistics/Point estimation.md",
-    "conflict-files-obsidian-git.md",
-    "Daily Notes/2022-10-13.md",
+    "Daily Notes/2022-11-04.md",
+    "Media Things/Types of Audience Communication.md",
+    "Media Things/Audience Analysis Factors.md",
+    "Media Things/Audience Research and Analysis.md",
+    "Daily Notes/2022-11-03.md",
     "Templates/Tasks.md",
-    "Server Requirements.md",
-    "Media Things/Digital Mass Communication.md",
-    "Daily Notes/2022-09-20.md",
-    "Past lens Mystery.md"
+    "Computer Science/Discrete Structures.md",
+    "Probability and Statistics/Point estimation.md",
+    "Computer Science/Logic.md",
+    "Computer Science/Logic Operations.md"
   ]
 }

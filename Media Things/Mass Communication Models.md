@@ -39,3 +39,27 @@
 - Consumers shape media to fit or support their views –> **Selective Exposure**
 - People with specific political opinions tend to seek posts that further support their preexisting views –> Confirmation bias
 
+
+
+# Transaction model
+- Two way model with real time feedback
+- Example: Messages/Face to Face communication
+- Public queues --> general look/first impression
+- Private queues --> my own thoughts 
+- Behaviour queues --> determine person by their acts/patterns
+- Multi-layered feedback
+- Complex model
+- *Table for pros/cons*
+## Barnlund
+   - Focuses on noise
+   - Credibility 
+   - Encode/Decode
+   - Sending/Feedback
+
+# Interaction models
+- Two way without direct feedback
+- Feedback from 3rd party --> Analysts 
+## Schramm 
+- Encode --> Interpreter --> Decoder
+- Synchronous --> Always on 
+- Feedback afterwards --> Very delayed
