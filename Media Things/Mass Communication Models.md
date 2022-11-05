@@ -12,6 +12,14 @@
 ## Shannon & Weaver 
    - Old school telephones (not analogue)
    - Noise in communication
+   ![[Pasted image 20221105124724.png]]
+   
+|Pros                                   | Cons                                              |
+|:--------------------------------------|:--------------------------------------------------|
+|Noise concept helps                    | Feedback less important                           |
+|Two way process, applicable in general | Misleading representation of communication        |
+|                                       | Has difficult being applied to human communication|
+
 ## Laswell communication model
 - 5 Components
    1. Who 
@@ -26,8 +34,16 @@
    - Teacher and Students
    - SMCR
 	 - Source --> Encodes Message --> Through Channel --> To Receiver
-	 - *insert table here*
-	 - *pros/cons table*
+	 ![[Pasted image 20221105125919.png]]
+|Pros                                      |Cons                                |
+|:-----------------------------------------|:-----------------------------------|
+|Message and medium aligned with recipient | Lack of feedback                   |
+|All factors considered                    | No barriers/noise mentioned        |
+|Still used in purer forms of communication| Complex                            |
+|Forms basis for higher models             | Linear                             |
+|                                          | requires people to be on same level|
+|                                          | omits thinking/analysing           |
+
 # Cultural Model
 - Individuals bring meanings to message
 - Different people decode messages differently based on
@@ -55,6 +71,12 @@
    - Credibility 
    - Encode/Decode
    - Sending/Feedback
+   ![[Pasted image 20221105130747.png]]
+|Pros      | Cons     |
+|:-----|:-----|
+| Shows shared field experience between sender and receiver | VERY complex     |
+| Talks about simultaneous sending,noise and feedback       | Sender and receiver must understand code sent by one another (a code book)     |
+| Most systematic model of communication                    |                    |
 
 # Interaction models
 - Two way without direct feedback
@@ -63,3 +85,10 @@
 - Encode --> Interpreter --> Decoder
 - Synchronous --> Always on 
 - Feedback afterwards --> Very delayed
+- Communication is circular
+- Equal and reciprocal –> Both parties equally engaged
+- Requires interpretation –> information need to be properly interpreted to be understood
+- 3 steps:
+![[Pasted image 20221105131150.png]]
+
+

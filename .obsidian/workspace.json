@@ -14,38 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media Things/Audience Analysis Factors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08ad2695b6fd457b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2022-11-05.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e98153d24212d6ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2022-11-05.md",
+                "file": "Media Things/Mass Communication Models.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "75db5d369faa7d1d",
@@ -106,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "c459506be14fdfac",
@@ -131,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-11-05.md",
+                "file": "Media Things/Mass Communication Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,17 +123,17 @@
     "width": 236.5,
     "collapsed": true
   },
-  "active": "e98153d24212d6ab",
+  "active": "579650b22f3040c3",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Media Things/Audience Analysis Factors.md",
+    "Media Things/Mass Communication Models.md",
     "Daily Notes/2022-11-05.md",
+    "conflict-files-obsidian-git.md",
     "Daily Notes/2022-11-04.md",
     "Media Things/Types of Audience Communication.md",
-    "Media Things/Audience Analysis Factors.md",
     "Media Things/Audience Research and Analysis.md",
     "Daily Notes/2022-11-03.md",
     "Templates/Tasks.md",
-    "Computer Science/Discrete Structures.md",
-    "Probability and Statistics/Point estimation.md"
+    "Computer Science/Discrete Structures.md"
   ]
 }
