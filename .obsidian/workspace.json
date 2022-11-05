@@ -38,8 +38,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
+                "file": "Daily Notes/2022-11-05.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Daily Notes/2022-11-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +151,7 @@
   },
   "active": "e98153d24212d6ab",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Daily Notes/2022-11-05.md",
     "Daily Notes/2022-11-04.md",
     "Media Things/Types of Audience Communication.md",
@@ -159,7 +160,6 @@
     "Daily Notes/2022-11-03.md",
     "Templates/Tasks.md",
     "Computer Science/Discrete Structures.md",
-    "Probability and Statistics/Point estimation.md",
-    "Computer Science/Logic.md"
+    "Probability and Statistics/Point estimation.md"
   ]
 }
