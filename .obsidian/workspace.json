@@ -4,62 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "5d902b1d76481869",
+        "id": "f812022464635e4e",
         "type": "tabs",
-        "dimension": 64.6588486140725,
+        "dimension": 65.29850746268657,
         "children": [
           {
-            "id": "579650b22f3040c3",
+            "id": "35e74907d528a648",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relational Algebra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db129edef91f7196",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f05b79f1c2597d81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Functions.md",
+                "file": "Daily Notes/2022-11-06.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "75db5d369faa7d1d",
+        "id": "164cda08e23ab57b",
         "type": "tabs",
-        "dimension": 35.3411513859275,
+        "dimension": 34.701492537313435,
         "children": [
           {
-            "id": "33f7fce4e0e0b90e",
+            "id": "bea37133d09e0b64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Templates/Tasks.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -131,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Daily Notes/2022-11-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,17 +124,17 @@
     "width": 236.5,
     "collapsed": true
   },
-  "active": "db129edef91f7196",
+  "active": "35e74907d528a648",
   "lastOpenFiles": [
-    "Relational Algebra.md",
+    "Templates/Tasks.md",
     "Computer Science/Functions.md",
+    "Relational Algebra.md",
+    "conflict-files-obsidian-git.md",
     "Computer Science/Relations.md",
     "Daily Notes/2022-11-05.md",
     "Media Things/Audience Analysis Factors.md",
     "Media Things/Mass Communication Models.md",
-    "conflict-files-obsidian-git.md",
     "Daily Notes/2022-11-04.md",
-    "Media Things/Types of Audience Communication.md",
-    "Media Things/Audience Research and Analysis.md"
+    "Media Things/Types of Audience Communication.md"
   ]
 }
