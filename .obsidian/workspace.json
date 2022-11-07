@@ -14,8 +14,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2022-11-06.md",
+                "file": "Daily Notes/2022-11-07.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43975a5e6e257735",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability and Statistics/Geometric Distributions.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -77,7 +89,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-11-06.md",
+                "file": "Daily Notes/2022-11-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,10 +134,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 236.5,
+    "collapsed": true
   },
   "active": "35e74907d528a648",
   "lastOpenFiles": [
+    "Probability and Statistics/Point estimation.md",
+    "Probability and Statistics/Geometric Distributions.md",
     "Daily Notes/2022-11-06.md",
     "Templates/Tasks.md",
     "Computer Science/Functions.md",
@@ -132,8 +148,6 @@
     "conflict-files-obsidian-git.md",
     "Computer Science/Relations.md",
     "Daily Notes/2022-11-05.md",
-    "Media Things/Audience Analysis Factors.md",
-    "Media Things/Mass Communication Models.md",
-    "Daily Notes/2022-11-04.md"
+    "Media Things/Audience Analysis Factors.md"
   ]
 }

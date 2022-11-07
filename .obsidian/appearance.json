@@ -1,4 +1,6 @@
 {
-  "accentColor": "#1c71d8",
-  "theme": "moonstone"
+  "accentColor": "#98971a",
+  "theme": "obsidian",
+  "cssTheme": "Obsidian gruvbox",
+  "interfaceFontFamily": "Inter"
 }
