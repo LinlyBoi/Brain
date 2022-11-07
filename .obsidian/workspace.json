@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schema.md",
+                "file": "Media Things/Types of Audience Communication.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,13 +89,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "c459506be14fdfac",
@@ -119,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schema.md",
+                "file": "Media Things/Types of Audience Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +137,8 @@
   },
   "active": "35e74907d528a648",
   "lastOpenFiles": [
+    "Media Things/Audience Research and Analysis.md",
+    "Schema.md",
     "Daily Notes/2022-11-07.md",
     "Probability and Statistics/Point estimation.md",
     "Templates/Tasks.md",
@@ -146,8 +146,6 @@
     "Daily Notes/2022-11-06.md",
     "Computer Science/Functions.md",
     "Relational Algebra.md",
-    "conflict-files-obsidian-git.md",
-    "Computer Science/Relations.md",
-    "Daily Notes/2022-11-05.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
