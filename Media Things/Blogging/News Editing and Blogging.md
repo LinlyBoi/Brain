@@ -11,12 +11,6 @@
 - Adobe ID
 - Deal with facts
 - Story/Image heavily depends on "viewing angle" / point of view
-## Factors or interest
-1. Geographic
-2. Time
-3. Conflict
-4. Targets people's emotions
-5. Proximity
 
 # Relevancy
 - Geographical
@@ -38,6 +32,13 @@
 5. Why
 6. (Secret) How? -> In finance only usually
    Ex: Haha Reddit made Game-stop rich
+   
+## Factors or interest (5 elements)
+1. Geographic
+2. Time
+3. Conflict
+4. Targets people's emotions
+5. Proximity
 ## Skills
 
 
