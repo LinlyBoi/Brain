@@ -12,12 +12,8 @@
             "id": "35e74907d528a648",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Latex things.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -117,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Latex things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,15 +132,15 @@
   },
   "active": "35e74907d528a648",
   "lastOpenFiles": [
-    "Database/Entity-Relationship Model.md",
+    "Media Things/Game Dev.md",
     "Daily Notes/2022-11-08.md",
+    "Latex things.md",
+    "Database/Entity-Relationship Model.md",
     "Media Things/Types of Audience Communication.md",
     "Media Things/Audience Research and Analysis.md",
     "Schema.md",
     "Daily Notes/2022-11-07.md",
     "Probability and Statistics/Point estimation.md",
-    "Templates/Tasks.md",
-    "Probability and Statistics/Geometric Distributions.md",
-    "Daily Notes/2022-11-06.md"
+    "Templates/Tasks.md"
   ]
 }

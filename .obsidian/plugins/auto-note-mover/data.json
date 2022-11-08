@@ -4,6 +4,16 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
+      "folder": "Media Things/Blogging",
+      "tag": "#Blogging",
+      "pattern": ""
+    },
+    {
+      "folder": "Media Things/Multimedia",
+      "tag": "#MultiMedia",
+      "pattern": ""
+    },
+    {
       "folder": "Media Things",
       "tag": "#Media",
       "pattern": ""
