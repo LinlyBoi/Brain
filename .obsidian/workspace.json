@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2022-11-08.md",
+                "file": "Latex things.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media Things/Types of Audience Communication.md",
+                "file": "Latex things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,15 +137,15 @@
   },
   "active": "35e74907d528a648",
   "lastOpenFiles": [
+    "Database/Entity-Relationship Model.md",
+    "Daily Notes/2022-11-08.md",
+    "Media Things/Types of Audience Communication.md",
     "Media Things/Audience Research and Analysis.md",
     "Schema.md",
     "Daily Notes/2022-11-07.md",
     "Probability and Statistics/Point estimation.md",
     "Templates/Tasks.md",
     "Probability and Statistics/Geometric Distributions.md",
-    "Daily Notes/2022-11-06.md",
-    "Computer Science/Functions.md",
-    "Relational Algebra.md",
-    "conflict-files-obsidian-git.md"
+    "Daily Notes/2022-11-06.md"
   ]
 }
