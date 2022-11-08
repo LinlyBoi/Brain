@@ -1,5 +1,5 @@
 # Relationships
-#Database
+#DataBase
 ## Properties
 - Not [[Relations |relations]]
 - Connects two or more entity sets

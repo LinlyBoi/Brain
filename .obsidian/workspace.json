@@ -12,8 +12,12 @@
             "id": "35e74907d528a648",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Relational Algebra.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -76,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#DataBase",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Relational Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +137,8 @@
   },
   "active": "35e74907d528a648",
   "lastOpenFiles": [
+    "Database/Relationships.md",
+    "Database/Database Life Cycle.md",
     "Media Things/Game Dev.md",
     "Daily Notes/2022-11-08.md",
     "Latex things.md",
@@ -139,8 +146,6 @@
     "Media Things/Types of Audience Communication.md",
     "Media Things/Audience Research and Analysis.md",
     "Schema.md",
-    "Daily Notes/2022-11-07.md",
-    "Probability and Statistics/Point estimation.md",
-    "Templates/Tasks.md"
+    "Daily Notes/2022-11-07.md"
   ]
 }
