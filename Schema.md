@@ -1,0 +1,8 @@
+- Driver($\underline{SSN}$,Reg date,Address,Name,Date of birth)
+- Vehicle(Model,Color,Chasse Number, $\underline{Plate number}^{PK}$, Type, Category, $\underline{Owner}$)
+- Radar($\underline{Serial number}$,Type,Location)
+- Admin($\underline{SSN}$,Name, Address)
+- Officer(SSN, $\underline{Badgenumber}$, )
+- Ticket($\underline{ID}$, Type, Description, Date)
+- FileTicket($\underline{Ticket}^{PK}$,$\underline{Vehicle}$,$\underline{Driver}$,$\underline{Officer}$ )
+- AutoFileTicket($\underline{Ticket}^{PK}$,$\underline{Vehicle}$,$\underline{Driver}$,$\underline{RadarSerial}$ )
