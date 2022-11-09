@@ -1,4 +1,4 @@
-# Types of [[Audience Research and Analysis#Audience|audience]] communication
+# Types of [[Audience Research and Analysis#Audience|audience]]communication
 
 #Media
 ## Traditional communication 
