@@ -1,4 +1,3 @@
-# Audience analysis factors
 
 ## Expectations
 - Depends on situation

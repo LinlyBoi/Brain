@@ -9,6 +9,8 @@
 ## [[Digital Mass Communication|Mass Communication]]
 - ∞ amount of audience members
 - Transferring the info through a medium –> books,radio,tv show, films etc.
+- Anonymous 
+- Tends to be one way
 
 ## Interactive communication
 ![[Pasted image 20221104132749.png]]
