@@ -1,11 +1,13 @@
 
 ## Expectations
 - Depends on situation
-- Should always pick the right time to speak about a certain topic
+- Should always pick the right time to speak about a certain topic 
+- related to [[Psychological Benefits of Communication#Audience Awareness|Awareness]]
 ## Knowledge of topic
 - How much the audience knows about a topic
 - Research what the audience knows
 - Remind of key terms without patronising 
+- related to [[Psychological Benefits of Communication#Audience Awareness|Awareness]]
 ## Attitude towards topic
 - Don’t say controversial things
 - Know how audience feels about topic

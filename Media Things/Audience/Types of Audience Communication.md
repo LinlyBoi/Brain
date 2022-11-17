@@ -1,6 +1,6 @@
 # Types of [[Audience Research and Analysis#Audience|audience]]communication
 
-#Media
+#Audience
 ## Traditional communication 
 - Face to face
 - No technology involved
