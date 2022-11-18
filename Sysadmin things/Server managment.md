@@ -7,3 +7,4 @@
 2. microk8s (Kubernetes)
 3. Wireguard
 4. Nextcloud
+5. Kompose (from docker-compose to k8s)
