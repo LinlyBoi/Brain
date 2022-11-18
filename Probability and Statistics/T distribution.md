@@ -2,7 +2,7 @@
 #Probability 
 - T has the root at bottom
 - Standard normal divided by root of [[The chi-Squared Distribution|chi-squared]] by its degree of freedom
-- Final result --> ( ($\bar{X}$ - µ )/ ( S/ (root)n ) ~ t$n-1$
+- Final result --> ( ($\bar{X}$ - µ )/ ( $\frac{S}{ \sqrt{n} }$  ) ~ t$n-1$
 - Like normal with heavier tail
 - Use when σ unknown and n < 30
 - Population normal 
