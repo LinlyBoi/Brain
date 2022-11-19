@@ -1,4 +1,4 @@
-t- [x] Blogging website ⏫ ✅ 2022-10-24
+- [x] Blogging website ⏫ ✅ 2022-10-24
 - How to deal and detect Fake News
 - Intensive training on preparation and publishing newspaper copy
 - Writing headlines etc.
