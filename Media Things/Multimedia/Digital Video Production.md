@@ -47,7 +47,7 @@ Story -> Script -> Story board (Graph) -> Filming -> Video editing
 - Simple illustrations
 ## Project tasks
 - [x] Story 📅 2022-10-30 ✅ 2022-10-28
-- [ ] Script 📅 2022-11-05 
+- [x] Script 📅 2022-11-05 ✅ 2022-11-19
 - [ ] Storyboard 📅 2022-11-12
 - [ ] Filming
 - [ ] Editing (fix it in post lol)
