@@ -1,11 +1,10 @@
 - [ ] Brush teeth 🔁 every day
-- [x] Brush teeth 🔁 every day ✅ 2022-11-20
-- [x] Brush teeth 🔁 every day ✅ 2022-11-20
-- [x] Brush teeth 🔁 every day ✅ 2022-11-20
 - [ ] Breakfast 🔁 every day
 - [x] Breakfast 🔁 every day ✅ 2022-11-20
-- [ ] Lunch 🔁 every day 
+- [ ] Lunch 🔁 every day
+- [x] Lunch 🔁 every day ✅ 2022-11-20
 - [ ] Dinner 🔁 every day 
 - [ ] Shower 🔁 every 3 days 
-- [ ] Laundry 🔁 every month 
+- [ ] Laundry 🔁 every month
+- [x] Laundry 🔁 every month ✅ 2022-11-20
 - [ ] Dishes 🔁 every 3 days
