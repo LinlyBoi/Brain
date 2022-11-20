@@ -1,33 +1,108 @@
-#DataBase 
-# Operations
-- Remove parts of a relation –> Selection, Projection
-- Combining operations
-  1. Cartesian product
-  2. Join operations –> Selectively pair tuples from 2 relations
-- Renaming –> Change schema name only ρ$_S$(Table)
-## [[Sets]] operations
-1. Union
-2. Intersection --> R  
-3. Difference
-- Requires two identical schemas
+#Database
 
-## Projection 
-- SELECT statement in [[SQL]]
-- Used to form a new Relation from an existing relation’s columns
-- Create a “subset” of a relation
-- No duplicates in **tuples**
-- Returns columns
-- Π$_{A_1,A_2,A_3,A_4...A_n}$(R) –> Relation that only has the columns 1 to n of R
-  Example R –> Movies(title,year,length,genre,studio,producer)
-  Π$_{genre}$(Movies) –> just the genre column
 
-## Selection
-- σ operator --> σ$_{gpa≤3}$(Students)
-- Gets executed before [[#Projection]]
-- Returns  whole tuple/rows
-- WHERE statement
+# Relational Algebra
 
-## Join
-- Theta-join ^0c1057
-	- S1 $∞_C$ S2 = σ$_C$(S1xS2) (as if not actually what happens)
-- Natural join --> the condition is known and it is the tables have the same attributes
+Algebra but for databases ykno?
+
+## Operands
+
+Tables/Relationships, Common things needed with relation.
+
+## Operators
+
+- Union: $\cup$
+
+- Intersection: $\cap$
+
+- Difference: $-$ (ex: $A-B$ , Present in A not in B)
+
+- Selection: $\sigma$
+
+- Projection: $\Pi$
+
+- Product (Join): $X$
+
+- Renaming: $\rho$
+
+### Selection Operator $\sigma$
+
+Selects/Displays a certain row (data), written as:
+
+$\sigma_{condition} ({tableName})$
+
+Assume existence of *Student* table, select all data for students with GPA more than 3
+
+```SQL
+SELECT * FROM Students WHERE GPA > 3
+```
+
+Algebraic form:
+
+$\sigma_{GPA > 3} ({Student})$
+
+### Projection Operator $\Pi$
+
+Used when asterisk ($*$) is ommitted in the selection statement.
+
+$\Pi_{attribute}(\sigma_{condition} ({tableName}))$
+
+On said *Student* table, Select only: StudentName
+
+```SQL
+SELECT studentName FROM Students WHERE GPA > 3
+```
+
+Algebraic form:
+
+$\Pi_{studentName} (\sigma_{GPA > 3} ({Students}))$
+
+### Product (Join) Operation $(X_{\theta}, \bowtie)$
+
+Cross references and groups tables with on a certain condition.
+
+#### Join Types
+
+- Natural Join: Shoves everything with copying.
+
+- Theta Join: Without copying. (Checks relation and foreign key)
+
+Suppose table *Employee* and it is to be joined with a table *Department* on the employee's working department ID with the department's ID
+
+Algebraic:
+
+${Employee} \bowtie_{Employee.DepNo = Dep.DepNo} {Department}$
+
+### Rename $\rho$
+
+Changes the name of a Column (Attribute), Must project on the column to be renamed.
+
+$\rho(fullName) \rightarrow \Pi_{name} { (Employee) }$
+
+$\rho(S_1, S_2, S_3) \rightarrow \Pi_{(Empty, name, salary)} {(Employee)}$
+
+### Union $\cup$, Intersection $\cap$, Difference $-$
+
+Adds/Compares/Removes according to data, new table is created as a byproduct.
+
+## Expression Precedence
+
+Precedence order:
+
+1. Unary Operators (Operations done on a single Table): $\sigma$ , $\Pi$ , $\rho$
+
+2. Multiplicative (Adds up two): $\bowtie$, $X$
+
+3. Lowest Operator (Data level stuff): $\cup$, $\cap$, $-$
+
+## Query Tree
+
+```SQL
+SELECT s.studentName FROM student(S), lecturer(L) WHERE s.id=l.id AND l.name = 'abc' AND s.branch = 'IT'`
+```
+
+Notice how one condition depends on 2 tables (Use join), and other two depend on their own table (Use selection).
+
+Algebraic:
+
+$\Pi_{s.studentName} (\sigma_{l.name = 'abc' \, AND \, s.branch = 'IT'} (Student \bowtie_{s.id = l.id} Lecturer))$
