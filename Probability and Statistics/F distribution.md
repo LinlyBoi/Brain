@@ -9,6 +9,6 @@
 - Always skewed
 - If no sample size just degrees of freedom
 ## Rules
-- F = σ2²/σ1² . S1²/S2² ~ F(K1),(K2) --> In formula sheet eg gz
+- F = $\frac{σ2²}{σ1²}$ . $\frac{S1²}{S2²}$ ~ F$_{K1,K2}$ --> In formula sheet eg gz
 - F(f$_{α,n1,n2}$) = 1 - α
 - f$_{α,n1,n2}$ =  1 / f$_{1-α,n1,n2}$
