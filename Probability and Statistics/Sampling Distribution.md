@@ -18,8 +18,8 @@
 
 ### Things to know
 - Statistics (not parameters)
-	- Point estimate -> $\bar{X}$ (Sample mean)
-	- Sample standard deviation -> S
+	- Sample mean  -> $\bar{X}$ 
+	- Standard error -> S
 	- Sample variance -> S²
 Each element within the sample itself is a random variable with its own E(x) and Variance
 - Readings/Observations (x$_1$,x$_2$....etc)
