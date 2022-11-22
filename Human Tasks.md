@@ -4,6 +4,7 @@
 - [x] Breakfast 🔁 every day ✅ 2022-11-21
 - [x] Breakfast 🔁 every day ✅ 2022-11-20
 - [ ] Lunch 🔁 every day
+- [x] Lunch 🔁 every day ✅ 2022-11-22
 - [x] Lunch 🔁 every day ✅ 2022-11-21
 - [x] Lunch 🔁 every day ✅ 2022-11-20
 - [ ] Dinner 🔁 every day
