@@ -64,6 +64,7 @@
 - Users are now responsible for distribution of media  
 - No one controls the internet
 - Happens when new technologies enter our daily life
+## Meikle’s Four dimensions of Convergence
 
 ### Industrial Convergence
 ### Social Convergence
