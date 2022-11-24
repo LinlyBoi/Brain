@@ -4,9 +4,11 @@
 - [x] Breakfast 🔁 every day ✅ 2022-11-21
 - [x] Breakfast 🔁 every day ✅ 2022-11-20
 - [ ] Lunch 🔁 every day
+- [x] Lunch 🔁 every day ✅ 2022-11-22
 - [x] Lunch 🔁 every day ✅ 2022-11-21
 - [x] Lunch 🔁 every day ✅ 2022-11-20
-- [ ] Dinner 🔁 every day 
+- [ ] Dinner 🔁 every day
+- [x] Dinner 🔁 every day ✅ 2022-11-21
 - [ ] Shower 🔁 every 3 days 
 - [ ] Laundry 🔁 every month
 - [x] Laundry 🔁 every month ✅ 2022-11-20
