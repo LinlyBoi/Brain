@@ -2,12 +2,12 @@
 
 - Simple 
 - Built around single concept --> The [[Relations#Relational DataBase Concepts|relation]]
+- Each relation is a table
 - Supports high level language --> [[SQL]]
 - Mathematical design theory --> [[Relational Algebra]]
    Leaves a lot room for [[Optimisation|optimisation]]
 - Most popular model despite newer models existing
    So popular that --> Object relational models exist
-
 - Degree --> number of attributes in schema
 - Cardinality --> is the number of tuples in relation
 

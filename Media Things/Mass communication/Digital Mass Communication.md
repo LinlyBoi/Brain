@@ -1,4 +1,3 @@
-- Textbook (Media and Culture by Richard Campbell)
 - 16/11 Deadline for soft copy of researches
 - 23/11 Midterm
 - 30/11 Hard copy for research
@@ -12,8 +11,23 @@
 - Media and Society
 - Digital Marketing Trends
 - Media law and ethics in cyber space
-## Communication Models
-[[Mass Communication Models]]
+## [[Mass Communication Models]]
+1. Shannon & Weaver 
+2. Laswell communication model
+   - What?
+   - Who?
+   - Says what?
+   - How?
+   - To who?
+   - With what effect?
+3. Berlo 
+   - Message -> most important part of communication process
+4. Barnlund
+   - Focuses on noise
+   - Credibility 
+   - Encode/Decode
+   - Sending/Feedback
+5. Schramm 
 ## Communication Theories
 - Simply the transmission of information from 1st party to 2nd party
 ## Noise in communication
@@ -50,6 +64,7 @@
 - Users are now responsible for distribution of media  
 - No one controls the internet
 - Happens when new technologies enter our daily life
+## Meikle’s Four dimensions of Convergence
 
 ### Industrial Convergence
 ### Social Convergence

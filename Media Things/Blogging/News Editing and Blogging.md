@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+#Blogging 
+=======
+>>>>>>> a922dc393306730d064657f144b85a1b3e96397e
 - [x] Blogging website ⏫ ✅ 2022-10-24
 - How to deal and detect Fake News
 - Intensive training on preparation and publishing newspaper copy

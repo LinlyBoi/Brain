@@ -34,7 +34,7 @@ Need 3 things
 3. [[#Consistency]]
 
 ## Bias 
-- if $\hat{θ}$ is an estimator --> bias = E($\hat{θ}$) - θ 
+- if $\hat{θ}$ is an estimator --> bias = E($\hat{θ}$) - θ –> θ is the true value of the µ in distribution
 - if estimator = the parameter --> unbiased
 ## Mean square error 
 - MS E($\hat{θ}$) = E($\hat{θ}$ - θ)²
