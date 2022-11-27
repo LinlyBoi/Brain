@@ -8,7 +8,7 @@
 2. Sigmoid:
 	f(n) = 1/ 1+e <sup>-n * alpha</sup> 
 3.  Linear:
-	Ex: f(n)=n<sup>2</sup> = 1/n = n<sup>3</sup>
+	Ex: f(n)=n<sup>2</sup> = 1/n = n$^3$
 
 ## Error
 Error = t-y
@@ -45,7 +45,7 @@ y<sub>new</sub> = f( (5) (-4.9) + (-3) (3.1) + 0.1) = 0
 Error = 0
 
 ## Multi Layer NN
-MultiLayer have 2 types: 
+Multi-layer have 2 types: 
 	1. Feed forward
 	2. Feed Back : Loop
 
@@ -53,9 +53,9 @@ Feed-Back : Means take the output and insert it in input
 
 ## Back propagation
 
-W<sub>new </sub> = W<sub> old </sub>  + alpha * MSE * derivative(f(input))
+W<sub>new </sub> = W<sub> old </sub>  + alpha * MSE * $\frac{d}{dx}$ f(input)
 
-we use Back prop when we have more than one percepton
+we use Back prop when we have more than one perception
 
 
 
