@@ -1,4 +1,3 @@
-# Interval Estimation
 #Probability 
 ```ad-tldr
 #### For 1 Population

@@ -14,11 +14,13 @@ title: General Rule
 #### Sum squared (SS) = (X$_i$ + $\bar X$)²
 #### Degrees of freedom (df) = n - 1 
 ```
+
 ```ad-question
 title: Can we use this formula when n$_1$ ,n$_2$ ≥ 30?
 YES
 If σ² is unknown
 ```
+
 ```ad-question
 title: Why can't we just take the average between S$_1$,S$_2$
 We simply can't because we have to take into account the sample sizes
