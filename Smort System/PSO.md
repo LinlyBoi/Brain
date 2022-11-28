@@ -19,17 +19,17 @@ Is a group of agents can Organize , Comminucate & Internet with each other
 2. Partial swarm orgnization (PSO) 
 
 ### 3-How to apply?
-1. Intial Solution
+1. Initial Solution
 2. Search direction
-3. Update criterien
+3. Update criteria
 
 ### 4-PSO
 - Particle = Bird
 - Sol =  Food
 
 - Faitnes has 2 types:
-	P best -> Best sol has achive by **Individual so far**
-	G best -> Best sol has achive by **All agents so far**  
+	P best -> Best sol has archive by **Individual so far**
+	G best -> Best sol has archive by **All agents so far**  
 
 - update: X(t+1) = X(t) +V(t+1)
 	V: Velocity
@@ -46,4 +46,4 @@ Is a group of agents can Organize , Comminucate & Internet with each other
 	X(t): Current position for all system
 
 ![[Pasted image 20221110203247.png]]
-//art by dawood
+%%art by dawood%%
