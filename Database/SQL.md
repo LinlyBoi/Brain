@@ -1,9 +1,9 @@
 #DataBase 
 - Standard database query language
-- Declarative 4th gen language  --> what needs to be done not how
+- Declarative 4th gen language  $\rightarrow$ what needs to be done not how
 - Built on [[Relational Algebra]]
-- Comparison symbols: = , <> , <  > , >= , <=
-- Renaming  --> Aliases
+- Comparison symbols: `=` , `<>` , `< `, `>` , `>=` , `<=`
+- Renaming  $\rightarrow$ Aliases
 ```SQL
   Select S1.name, S2.name from S1,S2
   SELECT S.name AS name FROM Students AS S;

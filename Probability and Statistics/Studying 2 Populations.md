@@ -9,7 +9,7 @@
 - 
 1. Sample taken from normal population
 2. Sample taken from any distribution and n ≥ 30
-   x(bar) ~ N( µ, (sigma)/n )
+   $\bar{x} \sim N(\mu, \frac{\sigma}{n} )$
 3. Sample taken from normal but sample n < 30
 
 

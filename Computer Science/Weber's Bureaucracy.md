@@ -1,7 +1,7 @@
 #Innovation 
 # Components
 ## Heirarchy
-> CEO -> Supervisor -> Employees
+> CEO $\rightarrow$ Supervisor $\righarrow$ Employees
 ## Impersonal Relationships
 > Select employees based on skills 
 ## Organisation based on  functionality
