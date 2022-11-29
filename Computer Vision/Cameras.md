@@ -4,7 +4,7 @@
 
 ### Types of rays:
 1. Gamma: Telescope or stars & Bacteria
-2. X rays
+2. X-rays
 3. Ultravioelt
 4. Visible light (Optical): used in color (RGB)
 5. Infrared: Thermal

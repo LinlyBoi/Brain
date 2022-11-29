@@ -31,22 +31,22 @@
 > Determine challenges and get information needed
 > Assign roles
 > Develop trust and communication
-## Team Roles -> [[Six hats]]
+## Team Roles $\rightarrow$ [[Six hats]]
 ### Leader
 > Encourages and maintains communication
-> Leads by setting good example -> Blue Hat
+> Leads by setting good example $\rightarrow$ Blue Hat
 > Motivate and Inspire
 > Helps team focus
 > Encourage creativity and risk-taking
 > Recognise contributions
 ### Initiator
-> Suggests new ideas -> Green Hat
+> Suggests new ideas $\rightarrow$ Green Hat
 ### Recorder
 > Documents team processes
 ### Devil's Advocate
-> Find potential flaws in idea -> Black hat
+> Find potential flaws in idea $\rightarrow$ Black hat
 ### Optimist
-> Present benefits -> Yellow Hat
+> Present benefits $\rightarrow$ Yellow Hat
 ### Timekeeper
 > Tracks time spent on tasks
 ### Gate Keeper

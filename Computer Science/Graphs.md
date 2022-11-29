@@ -1,28 +1,28 @@
 ## Types of graphs
-### Complete Graph -> [[Graph Edges and Nodes]]
->Kn
->Degree n-1
->edges n(n-1)/2 
+### Complete Graph $\rightarrow$ [[Graph Edges and Nodes]]
+>$Kn$
+>Degree $n-1$
+>edges $\frac{n(n-1)}{2}$ 
 
 ### Cycle Graph
->Cn
->nodes n
+>$Cn$
+>nodes $n$
 >degree 2
->edges n
+>edges $n$
 
 
 ### Wheel Graph
 >Wn
->nodes n+1
+>nodes $n+1$
 >Cycle graph with a center node
->edges 2n
+>edges $2n$
 >degree 3 except center n
  
 ### Directed Graph
->nodes n
+>nodes $n$
 >node degree in 
 >node degree out
->a ->b != b ->a
+>$a \rightarrow b$ $\ne$ b ->a
 ### Undirected Graph
 ### Connected Graph
 >all nodes have paths to each other
@@ -32,7 +32,7 @@
 >Graph with root node and leaf nodes
 >Simple connected graph
 >Parent nodes / Child Nodes
->Siblings ->have same parent
+>Siblings $\rightarrow$ have same parent
 >Pseudo code as graph
 #### Expression tree
 #### Path tree 
@@ -44,14 +44,14 @@
 
 ### Spanning Tree
 > Graph in form of tree
-> Repeating nodes -> Full spanning tree
-> No repetition -> minimum spanning tree
+> Repeating nodes $\rightarrow$ Full spanning tree
+> No repetition $\rightarrow$ minimum spanning tree
 ### Hasse Diagram
 > For partially ordered [[Sets]]
 > Remove loops 
 > Remove Transitive
 > ![[Hasse Diagram.png]]
-> { (1,2) , (1,3) , (1,4) , (2,3) , (2,4) }
+> $\{ (1,2) , (1,3) , (1,4) , (2,3) , (2,4) \}$
 
 ----
 # Representing Graphs
@@ -59,12 +59,12 @@
 >Not unique
 ## Adjacency Matrix
 >Most commonly used
->A = adj = count of edges at each node in a matrix form
->B = boolean = connected to edges or no
->W = sets of edges (names of edges)
->A^n is number of paths of length n
->Undirected graphs ->Symmetric Matrices
->Paths as ordered pair ->W^n (Cartestian Product method)
+>$A$ = adj = count of edges at each node in a matrix form
+>$B$ = boolean = connected to edges or no
+>$W$ = sets of edges (names of edges)
+>$A^n$ is number of paths of length $n$
+>Undirected graphs $\rightarrow$ Symmetric Matrices
+>Paths as ordered pair $\rightarrow$ $W^n$ (Cartestian Product method)
 ## Linked List + Hash Table 
 >Inefficient
 ## Euler Path

@@ -10,9 +10,9 @@
 > Weakness in a system that can be exploited in an attack
 > Ex: Buffer overflow and WEP Key leakage
 ### Sources
-> Bad Software/Hardware -> Mint's login screen/Bad printer 
-> Bad design, requirements -> Anyone can see admin dashboard 
-> Bad network policies and router configurations -> Portforwarding everything
+> Bad Software/Hardware $\rightarrow$ Mint's login screen/Bad printer 
+> Bad design, requirements $\rightarrow$ Anyone can see admin dashboard 
+> Bad network policies and router configurations $\rightarrow$ Portforwarding everything
 ----
 ## Risk
 > Data loss and compromise that will happen when an attack is successful
@@ -22,10 +22,10 @@
 >3. Money
 >4. Trust
 ### Misuse examples
-> Confidentiality -> Brave
-> Integrity (Tampered values) -> Distrowatch.com
-> Availablity (DOS) -> Manjaro
-> Authenticity -> PopOS Systemd-boot 
+> Confidentiality $\rightarrow$ Brave
+> Integrity (Tampered values) $\rightarrow$ [Distrowatch.com](https://Distrowatch.com)
+> Availablity (DOS) $\rightarrow$ Manjaro
+> Authenticity $\rightarrow$ PopOS Systemd-boot 
 ### Risk Management Cycle
 >![[Screenshot_20220413_114947.png]]
 ----
