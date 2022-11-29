@@ -17,3 +17,7 @@
   - P(t$_{α1}$ < T <  t$_{α2}$) = α1 - α2
   - -t$_α$ = t$_{1-α}$
   - P(t < t$_α$) = 1 - p(t ≥ t$_α$) = 1 - α
+```ad-note
+We can use the T distribution when standard deviation (σ) is unknown and sample size (n) is less than 30 where
+- S ~ t(n-1)
+```

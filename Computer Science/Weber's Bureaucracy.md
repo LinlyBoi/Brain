@@ -1,6 +1,6 @@
 #Innovation 
 # Components
-## Heirarchy
+## Hierarchy
 > CEO -> Supervisor -> Employees
 ## Impersonal Relationships
 > Select employees based on skills 
