@@ -1,7 +1,7 @@
 #Probability 
 ## Moment Generating Function
 ### Definition
-> The mean of random variable is refferred to as first moment of prob distribution
+> The mean of random variable is referred to as first moment of prob distribution
 > In general rth moment is E(x^r)
 > Derive MGF to get E(x^r) r amount of times
 
