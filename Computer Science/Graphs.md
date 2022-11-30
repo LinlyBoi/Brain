@@ -1,5 +1,5 @@
 ## Types of graphs
-### Complete Graph -> [[Graph Edges and Nodes]]
+### Complete Graph ⇒ [[Graph Edges and Nodes]]
 >Kn
 >Degree n-1
 >edges n(n-1)/2 
