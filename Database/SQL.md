@@ -30,4 +30,3 @@ SELECT * FROM S1,S2;
   FROM S1 NATURAL JOIN S2;
 ```
 
-# Sub queries
