@@ -1,9 +1,9 @@
 # Message Authentication
 ## Hashing
 > - Like CBC in AES
->   1. Input 5 words (160 bits) into hashing function with the first block
+>   1. Input 5 words ($160$ bits) into hashing function with the first block
 >   2. Hashed first block is entered with next block into hashing function
->   3. gives 160 bit output
+>   3. gives $160$ bit output
 ## Electronic Signature
 >- Scanned image of a handwritten signature
 >- Not very secure

@@ -6,7 +6,7 @@
 2- Edge Detection
 Mask have 3 types:
 1-Zeros
-2- Repeat 1<sup>st</sup> row with 1<sup>st</sup> Col
-3- Take last row and last col in above and beside 1<sup>st</sup> row with 1<sup>st</sup> Col 
+2- Repeat $1^{st}$ row with $1^{st}$ column
+3- Take last row and last col in above and beside $1^{st}$ row with $1^{st}$ column. 
 after all of that remove the additional boarder col and row
 4. Global Operation

@@ -1,7 +1,7 @@
 # Probability II 
 - Systematic
 - More statistics Less probability
-- R -> For statistics
+- R $\rightarrow$ For statistics
 - [x] Join team
 ## Course Grade distribution
 - 20 Midterm
@@ -19,7 +19,7 @@ Relies on:
  - How related two events are
  - If equal to 0 completely unrelated
  - Covariance value has no real meaning
- - **E( (x-µx) - (y-µy) )**
+ - **$E( (x-\mu x) - (y-\mu y) )$**
 ### Examples
  *insert image here*
 - Ice cream sales increase when it is summer
@@ -27,7 +27,8 @@ Relies on:
 ## Correlation Coefficient
 - Defines strength of relationship between the two events
   ![[Pasted image 20221003154156.png]]
-- Perfect negative correlation -> when x >> then << y (increase/decrease a LOT)
-- Perfect positive correlation -> when x >> then y >>
-- Rule: **Covariance of the 2 variables/ product of standard deviations** 
+- Perfect negative correlation -> when x $\uparrow$ then $\downarrow$ y (increase/decrease a LOT)
+- Perfect positive correlation -> when x $\uparrow$ then y $\uparrow$
+- Rule: **Covariance of the 2 variables/ product of standard deviations**
+- $Cov(x, y) = \frac{}{\sigma_x \cdot \sigma_y}$
 #Probability 
