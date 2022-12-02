@@ -28,6 +28,7 @@
    4. Which channel?
    5. With what effect?
 - Can have delayed feedback
+<<<<<<< HEAD
 
 |  Pros    |     Cons |
 |:-----|:-----|
@@ -35,6 +36,9 @@
 | Suitable for almost all types of communication     | Noise not mentioned     |
 |Concept of effect      |  Linear model    |
 
+=======
+*insert table for pros/cons*
+>>>>>>> a922dc393306730d064657f144b85a1b3e96397e
 ## Berlo 
    - Message -> most important part of communication process
    - Teacher and Students

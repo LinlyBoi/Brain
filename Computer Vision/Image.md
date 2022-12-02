@@ -8,7 +8,7 @@ Relation Between Wave length and Energy is direct which means Inc in wave length
 
 ### Types of rays:
 1. Gamma: Telescope or stars & Bacteria
-2. X-rays
+2. X rays
 3. Ultravioelt
 4. Visible: used in color
 5. Infrared: Thermal

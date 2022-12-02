@@ -1,10 +1,10 @@
 ## 2. Binomials
-> $n$ Bernoulli trials
+> n Bernoulli trials
 > trials **independent**
 > Probability of success is **constant**
-> $x = \{0, 1, 2, 3, \dots, n\}$ 
-> $f(x) = ^nC_p \cdot p^x \cdot q^{n-x}$ $\rightarrow$ Literally binomial theorem from Senior 3
-> $E(x) = n \cdot p$
-> $V(x) = n \cdot p \cdot q = \sigma^2$
-> $E(x)$ and $E(x^{\prime})$ where $x$ and $x^{\prime}$ are opposite events $\rightarrow$ $E(x) = n - E(x^{\prime})$
+> x = {0,1,2,3....n} 
+> f(x) = nCx . p^x . q^n-x -> Literally binomial theorem from Senior 3
+> E(x) = np
+> V(x) = npq = variation^2
+> E(X) and E(X') where X and X' are opposite events -> E(x) = n - E(x')
 #Probability 

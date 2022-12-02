@@ -1,5 +1,5 @@
 #DataBase 
-- For diagram look into $\rightarrow$ [[ER&DataModels#Shapes in ER Diagram|Shapes in ER]]
+- For diagram look into -> [[ER&DataModels#Shapes in ER Diagram|Shapes in ER]]
 # Business rules
 - Enforce constrains
 - Company policies for how things are handled
@@ -55,7 +55,7 @@
 1. keys 
 	- unique identifier 
 	- can be one or multiple attributes (Ex: Department code + course number together)
-	- More than one candidate key $\rightarrow$ more than one attribute can be used as a key
+	- More than one candidate key --> more than one attribute can be used as a key
 	- Only one is the primary key
 2. single-value  
 	- one and only *Juan* value (unique)
@@ -63,9 +63,9 @@
 5. referential integrity
 	- ensure value exists
 	- used for foreign keys
-6. domain constraints $\rightarrow$ specify what set of values can be assigned to attribute
+6. domain constraints --> specify what set of values can be assigned to attribute
 # Why?
-- Graphics $\rightarrow$ good communication tool
+- Graphics -> good communication tool
 
 # Design Techniques
 - Document assumptions you've made
@@ -78,6 +78,6 @@
 - When to use entities
 	- It is the "many" segment of the one-many relationship
 - Don't overuse weak entity sets
-	- many joins $\rightarrow$ slower system
+	- many joins --> slower system
 	- When possible everything should have its own key
-	- Use only when there is no global authority for unique IDs $\rightarrow$ car chassis number
+	- Use only when there is no global authority for unique IDs --> car chassis number
