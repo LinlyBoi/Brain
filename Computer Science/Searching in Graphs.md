@@ -1,7 +1,7 @@
 # Search methods in Graphs
 
 #Discrete 
-# See $\rightarrow$ [[Graphs]]
+# See ->[[Graphs]]
 ## Weighted
 ### Dijkstra Algorithm:
 > Steps to do the thing:

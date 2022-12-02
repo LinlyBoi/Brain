@@ -4,8 +4,8 @@
 ### Injective
  - One-to-One
  - No two elements in the domain have the same image in the sub domain
- - ex: $x^3$
- - counter example: $x^2$
+ - ex: x³
+ - counter example: x²
 ### Surjective
  - Onto
  - All elements of the co-domain are used

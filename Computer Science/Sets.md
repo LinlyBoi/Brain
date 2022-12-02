@@ -3,12 +3,12 @@
   Principal for [[Databases|databases]]
   No duplications
   No order
- $\lvert A \rvert$ = number of elements
- Power set $\rightarrow$ Set of all possible subsets
+ |A| = number of elements
+ Power set -> Set of all possible subsets
  Order = Tuple = record in database 
- $A \times B$ $\rightarrow$ Cartesian Product
- Union ($\cup$) $\rightarrow$ Everything in both
- Symmetric Difference  $\rightarrow$ Union without the intersection
+ "A **x** B" -> Cartesian Product
+ Union -> Everything in both
+ Symmetric Difference -> Union without the intersection
  
 ---
 
@@ -26,19 +26,15 @@
 ### 1. Curly Braces
  Pretty Standard
 ### 2. Matrix (For Products)
-  $A\times B$ 
+  AxB 
   Domain (A) is the column , CoDomain (B) is the row
-  $$
-  \begin{bmatrix}
-  & b_1& b_2& b_3&\\
-  a_1\\
-  a_2\\
-  a_3\\
-  \end{bmatrix}
-  $$
+  	b1,b2,b3
+  a1
+  a2
+  a3
 ### 3. Bit String (for subsets)
   Very Cool
   1s and 0s
-  $U$ = $\{x_1, x_2, x_3, x_4\}$
-  $A$ $\subset$ $U$ = $\{x_1, x_4\}$
+  U = {x1,x2,x3,x4}
+  A subset of U = {x1,x4}
   A = 1001

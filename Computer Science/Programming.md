@@ -19,4 +19,4 @@
 - Calling a value to "pipe" into another command/function
 ### Different programming languages and piping
 - literally `ls | grep x`  in bash
-- `var %>% (*rest of code here*)` in [[#R programming things|R programming language]]
+- var %>% (*rest of code here*) in [[#R programming things|R programming language]]

@@ -7,7 +7,7 @@
 >
 >### Defintions
 >- Templates for classes
->- Implementing interface $\rightarrow$ follow its rules
+>- Implementing interface -> follow its rules
 >
 >### Usage
 >- Multiple classes with same method name but different execution
@@ -18,8 +18,8 @@
 > ### Misc Notes
 >- Related to [[Abstraction]]
 >- Is-a relationship without sharing code
->- Methods  $\rightarrow$ Public  abstract by default   
->- Variables $\rightarrow$ Static final by default
+>- Methods  -> Public  abstract by default   
+>- Variables -> Static final by default
 >- Abstract Methods: Methods without a body (need to implemented elsewhere)
 >- UML for interface is dotted lines
 >  << Interface >>

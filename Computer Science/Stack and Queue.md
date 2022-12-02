@@ -5,7 +5,7 @@
 > Last in First out (LIFO)
 > no fixed size
 > Push to add, Pop to return value and remove
-> Peek $\rightarrow$ see last
+> Peek >> see last
 > Think of stack of books 
 > Ex: print array in reverse
 ## Queue
