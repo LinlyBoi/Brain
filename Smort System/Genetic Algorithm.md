@@ -7,7 +7,7 @@
 
 ## Genetic Algorithm (GA)
 ### What is GA?
-1. Evolutionary algorithms that make use of operations like mutatuion.
+1. Evolutionary algorithms that make use of operations like mutation.
 2. Provide an AI method by an analogy of biological evolution
 3. It constructs a population of evolving solutions to solve the problem
 ### Uses?
