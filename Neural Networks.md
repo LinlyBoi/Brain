@@ -10,6 +10,10 @@
 - Sometimes we want a bias before we even consider chucking it into the sigmoid (more 0s when results aren’t significant enough)
 - Weighted sums may yield ANY value but you know that neurons only take 0 to 1
 	- Plugging the values into the sigmoid function fixes that :D
+```ad-hint
+title: Sigmoid Function
+## σ = $\frac{1}{1+e^{-x}}$
+```
 
 ```ad-warning
 Sigmoid Function is pretty old school and not used in modern Neural Networks anymore the Rectified linear unit proved to be easier to train (ReLU(α))
