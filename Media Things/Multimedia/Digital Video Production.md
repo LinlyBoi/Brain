@@ -44,8 +44,7 @@ Story -> Script -> Story board (Graph) -> Filming -> Video editing
 ## Storyboard
 - Good when you can write a script just by looking at the images.
 - Minimum 6 
-- Simple illustrations (not too simple)
-- No colours
+- Simple illustrations
 ## Project tasks
 - [x] Story 📅 2022-10-30 ✅ 2022-10-28
 - [x] Storyboard 📅 2022-11-12 ✅ 2022-11-24

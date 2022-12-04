@@ -14,11 +14,11 @@
 # Object Class
 # Encapsulation
 # UML and Class Relationships
-> Is a -> Inheritance
-> Has a -> Putting object in another class/object
-> Association relation -> different object as method argument
-> Aggregation -> weak has a (Has it but doesn't **NEED ITTTT**)
+> Is a $\rightarrow$ Inheritance
+> Has a $\rightarrow$ Putting object in another class/object
+> Association relation $\rightarrow$ different object as method argument
+> Aggregation $\rightarrow$ weak has a (Has it but doesn't **NEED ITTTT**)
 > Person has a lawyer but can exist without a lawyer
 > Aggregation can occur between same class (see linked list nodes)
-> Composotion -> String has-a/owns-a relationship 
+> Composotion $\rightarrow$ String has-a/owns-a relationship 
 > Table has a leg and can't exist without legs LOLOLLOLOLOL
