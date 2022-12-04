@@ -8,7 +8,7 @@
 > Faster
 ## How it works
 ### 1. Sub Bytes
-> Subistitute bytes  using the table (XY) I.E: 19 is first row 9th column in 16x16 hex table
+> Subistitute bytes  using the table ($XY$) I.E: 19 is first row 9th column in $16 \times 16$ hex table
 ### 2. Shift Rows
 > First row nothing
 > Second rotate over 1 byte (first goes to last)
@@ -29,7 +29,7 @@
 > Apply Sub  Bytes 
 > First column in next block for key >> XOR First column , Sub Byte result , RCON(?)
 > Remaining words in 128 bit block are XOR Wi>1 , Wi>4
-> W(i) = W(i>1) XOR W(i>4) till next **Rot Word**
+> W(i) = W(i>1) $\oplus$ W(i>4) till next **Rot Word**
 
 ## Cipher block chaining vs Electronic Cipher Book
 ### CBC

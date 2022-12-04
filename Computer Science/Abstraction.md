@@ -2,7 +2,7 @@
 # Abstraction
 > ### Definition
 >- Simplify things into only what is relevant
->  Ex: Car -> Engine (Relevant) , color (no)
+>  Ex: Car $\rightarrow$ Engine (Relevant) , color (no)
 >  
 >  ### Example use cases
 >  

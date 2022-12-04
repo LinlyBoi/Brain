@@ -20,7 +20,7 @@
 - Statistics (not parameters)
 	- Sample mean  -> $\bar{X}$ 
 	- Standard error -> S
-	- [[Sample variance]] -> S²
+	- Sample variance -> S²
 Each element within the sample itself is a random variable with its own E(x) and Variance
 - Readings/Observations (x$_1$,x$_2$....etc)
 - Sample size affects Variance but not the Mean (µ)
@@ -47,13 +47,9 @@ Each element within the sample itself is a random variable with its own E(x) and
      E(X$_1$) = E(X$_2$) = E(X$_3$) = µ etc
      V(X$_1$) = V(X$_2$) = V(X$_3$) = σ² etc
  independent and identically distributed
- ```ad-hint
-title: Rules
- 
-### E($\bar{X}$) = µ
-
-### V($\bar{X}$) = $\frac{σ²}{n}$
-```
+ ### Rules
+ 1. E($\bar{X}$) = µ
+ 2. V($\bar{X}$) = σ²/n
  
 ### $\bar{X}$ Distribution
 1. Any Random Sample from [[Normal (Gaussian) Distribution|normal distribution]] Normal(µ, σ²) have sample mean $\bar{X}$ where $\bar{X}$ ~ Normal(µ, σ²/n) 
@@ -61,10 +57,13 @@ title: Rules
 2. Central limit theorem
    Any random sample  with a mean µ and variance σ² is normal when the sample size is large enough (n ≥ 30)
 3. Standard error --> Standard deviation of $\bar{X}$ distribution
-# [[Point Estimation]]
+## Estimation
 ### Definition
 - Literally in the name lol
+- Chapter 2
+### Examples
+- How you know when Trams are coming 
 
-# Confidence
+## Confidence
 - Interval that we get for population from samples
 - Chapter 3
