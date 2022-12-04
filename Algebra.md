@@ -1,4 +1,3 @@
-# Algebra
 
 Mathematical System to represent relations in db and can be divided into two parts:
 

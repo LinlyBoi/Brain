@@ -9,6 +9,6 @@
 - Always skewed
 - If no sample size just degrees of freedom
 ## Rules
-- $F = \frac{\sigma_2^2}{\sigma_1^2} \cdot \frac{S_1^2}{S_2²} \sim F_{K1,K2}$ $\rightarrow$ In formula sheet eg gz
-- $F(f_{\alpha,n1,n2}) = 1 - \alpha$
-- $f_{α,n1,n2}$ =  $\frac{1}{f_{1-\alpha,\,n1,\,n2}}$
+- F = $\frac{σ_2²}{σ_1²}$ . $\frac{S_1²}{S_2²}$ ~ F$_{K1,K2}$ --> In formula sheet eg gz
+- F(f$_{α,n1,n2}$) = 1 - α
+- f$_{α,n1,n2}$ =  $\frac{1}{f_{1-α,n1,n2}}$

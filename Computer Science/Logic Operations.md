@@ -2,32 +2,32 @@
 # Logic Operations
 ## Basic Operations
 ### AND 
-> - Symbols: &, &&, $\land$, $\cap$, $*$
+> - Symbols: &, &&, ^ (V size), intersection , *
 > 
 ## OR
-> - Symbols: || , | , V , $\cup$ , $+$
+> - Symbols: || , | , V , Union , +
 >  
 ### NOT
-> - Symbols: !, - , ~ , $^\prime$
+> - Symbols: !, - , ~ , Compliment
 > 
 ### If then
-> - Symbols: $\implies$
-> - Equals to ($-p$ $\lor$ $q$)
+> - Symbols: ->
+> - Equals to (-p V q)
 > 
 ### Equivalent
-> - Symbols: $\Longleftrightarrow$
-> - Equals to ($p$ $\implies$ $q$) $\land$ ($q$ $\implies$ $p$)
+> - Symbols: <-->
+> - Equals to (p->q) & (q->p)
 > 
 ### XOR
-> - Symbols: $\oplus$ or ^ (the power one)
+> - Symbols: ^ (the power one)
 ----
 
 ## More Complex Operations
-### If then ($p$ $\implies$ $q$)
->- Simplified to ($-p$ $\lor$ $q$)
+### If then (p → q)
+>- Simplified to (-p v q)
 >
-### Equivalent ($\Longleftrightarrow$)
-> $p$ $\Longleftrightarrow$ $q$ $\equiv$ ($p$ $\implies$ $q$) $\land$ ($q$ $\implies$ $p$)
+### Equivalent (<-->)
+> p<-->q == (p-->q) ^ (q-->p)
 ----
 
 ## Misc Notes
@@ -37,7 +37,7 @@
 ### Contradiction
 >- Always false
 >  
-### Dual -> flip($\lor$, $\land$, T, F)
+### Dual -> flip(v,^,T,F)
 >- AND becomes OR and vice versa
 >- T (true) becomes F (false) and vice versa
 >- Negation remains the same
@@ -47,7 +47,7 @@
 >  
 ### Converse
 >- Reverse the arrows of if then
->- $p$ $\implies$ $q$ becomes $q$ $\implies$ $p$
+>- p-->q becomes q-->p
 >  
 ### Inverse
 >- Negate everything (with ! NOT)

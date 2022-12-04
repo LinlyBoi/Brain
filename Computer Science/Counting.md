@@ -1,13 +1,13 @@
 # Counting
 >- Count number of elements in sets
->- Union is: $+$ of all Sets $-$ Intersection of all sets
+>- Union is + of all Sets - Intersection of all sets
 >- Power set raise 2 to power of n (number of elements)
 >- Product multiply it lol
 >## Count loops
->>- $\frac{(m - n)}{x}$ + 1
+>>- ((m - n) /x) + 1
 >> 	m is end
 >> 	n is start 
->> 	$x$ is step
+>> 	x is step
 >> 	+1 is at end of EVERYTHING
 >>- Nested loops you multiply 
 >## Complexity
@@ -21,9 +21,9 @@
 >>- always take highest power when calculating
 >>- calculate by taking limit tending to infinity 
 >## Selection
->>- No constraints: $n^r$
->>- Permutation (ordered) $^nP_{r}$ $\rightarrow$ $\frac{n!}{(n-r)!}$
->>- Combination (unordered ex: sets) $^nC_r$ $\rightarrow$ $\frac{^nP_r}{r!}$
+>>- No constraints: n^r
+>>- Permutation (ordered) nPr -> n!/(n-r)!
+>>- Combination (unordered ex: sets) nCr -> nPr/r!
 >## Computability
 >>- Measure with finite automata
 >

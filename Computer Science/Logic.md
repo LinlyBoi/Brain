@@ -6,8 +6,8 @@
 
 # Predicate Logic
  ## Operations
-- For all $\forall$
-- There Exist $\exists$
+- For all ∀
+- There Exist ∃
 - Function turn verb into function (boolean)
   X likes Y
   likes(X,Y)

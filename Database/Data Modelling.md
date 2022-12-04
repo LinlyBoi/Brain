@@ -36,8 +36,8 @@ Relationship between an Entity and a Weak one.
 - ---||-    : One-to-One but one prior.
 - ---|<-  : Many but must have at least one.
 - ---o<- : Many but optional.
-- Open arrow $\rightarrow$ Exactly 1
-- Closed arrow $\rightarrow$ at most 1
+- Open arrow --> Exactly 1
+- Closed arrow --> at most 1
 
 ### Types of Attributes
 1. Simple Attribute: Normal Ellipse.
